@@ -12,4 +12,5 @@ export default defineConfig({
   resolve: {
     mainFields: ['module'],
   },
+  base: "/multi-framework-redux"
 });
